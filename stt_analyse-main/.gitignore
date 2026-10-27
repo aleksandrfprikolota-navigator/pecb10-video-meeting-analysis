@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/*.mp3
+data/*.mp4
+data/*.mkv
+data/*.transcript.txt
+data/*.protocol.md
+data/*.protocol.docx
+data/*.error.txt

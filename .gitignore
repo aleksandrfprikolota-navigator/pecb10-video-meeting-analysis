@@ -1,0 +1,7 @@
+**/.env
+**/__pycache__/
+**/*.py[cod]
+stt_analyse-main/data/*
+!stt_analyse-main/data/.gitkeep
+*.docx
+_build_docx.py
